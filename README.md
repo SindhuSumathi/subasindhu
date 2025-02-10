@@ -1,6 +1,5 @@
 # SINDHUSUBA
 ## B.Sc., Computer Science
-## Software Testing(Pursuing)
 
  ### <img width="48" height="48" src="https://img.icons8.com/external-those-icons-flat-those-icons/48/external-SQL-development-files-those-icons-flat-those-icons.png" alt="external-SQL-development-files-those-icons-flat-those-icons"/>1. SQL 
 - SQL Statements
@@ -24,6 +23,8 @@
 - OOPS concept
 - Control flow statement
 
-### Certification and training attended
-| Typewriting | Sindhu | Subalakshmi |
-| ........... | ...... | ........... |
+### <img width="50" height="50" src="https://img.icons8.com/water-color/50/certificate.png" alt="certificate"/> Certification and training attended
+| Certificate | Sindhu        | Subalakshmi |
+| ----------- | ----------    | ----------- |
+| Typewriting | Tamil & English (Junior) | English(Junior) |
+| Software Testing | Pursuing | Pursuing |
