@@ -1,11 +1,6 @@
-# subasindhu
-## subasindhu
-### sindhu
-#### sindhu
-##### suba
-###### suba
-**bold**
-> sindhu
-> suba
+# SINDHUSUBA
+## - [X]B.Sc., Computer Science
+## - [ ]Software Testing(Pursuing)
 
-I am ==good girl==.
+
+
