@@ -1,6 +1,6 @@
 # SINDHUSUBA
-## - [X]B.Sc., Computer Science
-## - [ ]Software Testing(Pursuing)
+## - [X] B.Sc., Computer Science
+## - [ ] Software Testing(Pursuing)
 
 
 
